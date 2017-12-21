@@ -1,3 +1,3 @@
-introduction(name) {
+def introduction(name)
   puts "hello #{name}"
-}
+end
